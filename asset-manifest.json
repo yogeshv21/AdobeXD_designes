@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdobeXD_designes/static/css/main.d1c242a5.css",
+    "main.js": "/AdobeXD_designes/static/js/main.ff2bc0a9.js",
+    "static/js/787.88e0d3ad.chunk.js": "/AdobeXD_designes/static/js/787.88e0d3ad.chunk.js",
+    "index.html": "/AdobeXD_designes/index.html",
+    "main.d1c242a5.css.map": "/AdobeXD_designes/static/css/main.d1c242a5.css.map",
+    "main.ff2bc0a9.js.map": "/AdobeXD_designes/static/js/main.ff2bc0a9.js.map",
+    "787.88e0d3ad.chunk.js.map": "/AdobeXD_designes/static/js/787.88e0d3ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c242a5.css",
+    "static/js/main.ff2bc0a9.js"
+  ]
+}
